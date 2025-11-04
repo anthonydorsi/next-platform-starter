@@ -186,3 +186,13 @@ export default function SearchPage() {
     </main>
   );
 }
+
+
+<p style={{ marginTop: "2rem" }}>
+  <a href="/search" style={{ color: "#38bdf8" }}>
+    Try AI Visibility Search →
+  </a>
+</p>
+
+
+END AI SEARCH CODE**********************
