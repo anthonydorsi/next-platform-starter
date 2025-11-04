@@ -67,8 +67,6 @@ export default function Home() {
   );
 }
 
-
-*AI SEARCH CODE***************************************
   
 
 "use client";
@@ -193,6 +191,3 @@ export default function SearchPage() {
     Try AI Visibility Search →
   </a>
 </p>
-
-
-END AI SEARCH CODE**********************
